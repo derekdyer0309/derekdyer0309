@@ -35,15 +35,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <li>Python</li>
   <li>Javascript</li>
   <li>React</li>
-  <br />
   <li>Node</li>
   <li>MongoDB</li>
   <li>JSON</li>
-  <br />
   <li>HTML</li>
   <li>CSS</li>
   <li>SQLITE</li>
-  <br />
   <li>Git</li>
   <li>Bash</li>
   </ul>
