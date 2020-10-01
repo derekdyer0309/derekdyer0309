@@ -1,16 +1,50 @@
-### Hi there 👋
+<!-- Your title -->
+## Hi, I'm Derek 🚀
 
-<!--
-**derekdyer0309/derekdyer0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/derekdyer0209)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derek-dyer/)
+
+&nbsp;
+
+<!-- Talking about you -->
+**A bit about me**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on [Bridges to Prosperity](https://b.bridgestoprosperity.dev/);
+- 🌱 I’m learning computer science (graduation 2021); 
+- 🤔 I’m looking for help with Data structures and algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/derek-dyer/);
+
+**Languages and Tools:** 
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>React</li>
+  <br />
+  <li>Node</li>
+  <li>MongoDB</li>
+  <li>JSON</li>
+  <br />
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SQLITE</li>
+  <br />
+  <li>Git</li>
+  <li>Bash</li>
+  </ul>
+</p>
