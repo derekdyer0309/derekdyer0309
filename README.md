@@ -36,6 +36,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <li>Javascript</li>
   <li>React</li>
   <li>Node</li>
+  <li>C#</li>
   <li>MongoDB</li>
   <li>JSON</li>
   <li>HTML</li>
